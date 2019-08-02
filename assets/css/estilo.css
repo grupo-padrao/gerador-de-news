@@ -1,0 +1,7 @@
+.form-control {
+	 height: 44px!important;
+	 font-size: 1.3em!important;
+}
+textarea {
+	min-height: 100px!important;
+}
